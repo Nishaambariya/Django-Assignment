@@ -1,0 +1,1 @@
+Django is much more easier as compare to flask. Flask does not support dynamic HTML pages, and Django offers dynamic HTML pages.in flask, suitable for single page applications only whereas in django  It is suitable for multi page applications.
