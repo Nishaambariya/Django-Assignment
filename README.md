@@ -27,15 +27,16 @@ Start the server
 ## Screenshots
 
 
-![Annotation 2022-10-19 111400](https://user-images.githubusercontent.com/53992670/196608559-817c0935-1f22-456e-9d85-9e2f8e093c73.jpg)
-![Annotation 2022-10-19 111447](https://user-images.githubusercontent.com/53992670/196608579-21c7a78c-276a-4e59-997e-2eafac635614.jpg)
-![Annotation 2022-10-19 111654](https://user-images.githubusercontent.com/53992670/196608595-20cfca16-fbe4-4866-b8bb-b56845a0250b.jpg)
-![Annotation 2022-10-19 111726](https://user-images.githubusercontent.com/53992670/196608615-7e142cd7-ed4e-49f2-9683-e2aebfbdcf97.jpg)
+
 
 ## Author
 
 [@Nishaambariya](https://github.com/Nishaambariya)
 
+![Screenshot 2022-10-19 124335](https://user-images.githubusercontent.com/70773490/196623320-c004a40d-d2cb-4df8-bc13-779bd459f991.png)
+![Screenshot 2022-10-19 124215](https://user-images.githubusercontent.com/70773490/196623341-1adb240d-dd31-4f4f-b18a-22a6065b8961.png)
+![Screenshot 2022-10-19 124715](https://user-images.githubusercontent.com/70773490/196623349-a01996dc-f6a7-4bfb-b320-a42f9152352f.png)
+![Screenshot 2022-10-19 124442](https://user-images.githubusercontent.com/70773490/196623358-3316b5fb-6885-4547-8865-a0da33f162d5.png)
 
 ## Tech Stack
 
